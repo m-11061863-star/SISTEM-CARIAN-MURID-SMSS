@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Carian Murid & Direktori DELIMa",
+  "description": "Sistem carian pantas murid, penapisan kelas dan tingkatan serta portal pentadbir DELIMa berstatus privasi emel selamat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
